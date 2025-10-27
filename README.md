@@ -50,7 +50,7 @@ The following functions are implemented:
 ## Installation
 
 ``` r
-install.packages("waffle") # NOTE: CRAN version is 0.7.0
+install.packages("waffle") # NOTE: Not available as at 2025/10/27
 # or
 remotes::install_github("hrbrmstr/waffle")
 ```
