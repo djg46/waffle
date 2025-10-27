@@ -63,7 +63,6 @@ NOTE: To use the ‘remotes’ install options you will need to have the
 ``` r
 library(waffle)
 library(magrittr)
-library(hrbrthemes)
 library(ggplot2)
 library(dplyr)
 library(waffle)
