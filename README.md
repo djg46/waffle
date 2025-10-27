@@ -69,7 +69,7 @@ library(waffle)
 
 # current verison
 packageVersion("waffle")
-## [1] '1.0.2'
+## [1] '1.0.3'
 ```
 
 ### Some new bits up first
