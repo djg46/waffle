@@ -1,8 +1,8 @@
 Package: waffle
 Type: Package
 Title: Create Waffle Chart Visualizations
-Version: 1.0.2
-Date: 2023-09-30
+Version: 1.0.3
+Date: 2025-10-27
 Authors@R: c(
     person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"), 
            comment = c(ORCID = "0000-0001-5670-2640")),
@@ -47,4 +47,4 @@ Imports:
     plyr,
     rlang,
     utils
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3

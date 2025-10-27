@@ -11,3 +11,19 @@ Font Awesome by Dave Gandy - http://fontawesome.io\cr
 License: SIL OFL 1.1\cr
 URL: http://scripts.sil.org/OFL
 }
+\author{
+\strong{Maintainer}: Bob Rudis \email{bob@rud.is} (\href{https://orcid.org/0000-0001-5670-2640}{ORCID})
+
+Authors:
+\itemize{
+  \item Dave Gandy (Font Awesome)
+}
+
+Other contributors:
+\itemize{
+  \item Andrew Breza \email{andrew.breza@gmail.com} [contributor]
+  \item Matthias Jütte [contributor]
+  \item Paul Campbell \email{pacampbell91@gmail.com} (geom_bar flip) [contributor]
+}
+
+}

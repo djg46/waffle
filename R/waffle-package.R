@@ -7,7 +7,7 @@
 #' URL: http://scripts.sil.org/OFL
 #'
 #' @name waffle-package
-#' @docType package
+"_PACKAGE"
 #' @import gridExtra
 #' @import stringr
 #' @import curl
